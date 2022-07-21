@@ -34,7 +34,7 @@ public class Main {
 		int numLinhas = numero.nextInt();
 		
 		for (int i=1; i <= numLinhas; i++) {
-			writer.printf("Essa é a linha do número " + i + "%n");
+			writer.printf("Essa Ã© a linha do nÃºmero " + i + "%n");
 		}
 		
 		arquivo.close();
@@ -71,7 +71,7 @@ public class Main {
 			
 		}
 		else  {
-			System.out.printf("Digite uma opção válida");
+			System.out.printf("Digite uma opÃ§Ã£o vÃ¡lida");
 		}
 	}}
 
